@@ -12,7 +12,6 @@ function App() {
       <Questao01 nome="Mateus" sobrenome="Pedrosa" curso="CC" disciplinas={disp}/>
       <Questao02/>
       <Questao03/>
-      <Questao04/>
     </div>
   );
 }
